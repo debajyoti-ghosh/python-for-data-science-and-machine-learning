@@ -1,0 +1,12 @@
+This is the transcript for the following code:
+
+
+Create a ipynb as raw JSON. With more details in markdowns from transcript.
+
+Create Exercise for it
+
+create an interactive Jupyter Notebook exercise version in raw JSON format for it where each step includes a collapsible hint.
+Also with Collapsed solution at the end to allow self-checking.
+
+
+ipynb
